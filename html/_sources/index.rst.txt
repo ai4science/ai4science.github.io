@@ -1,0 +1,12 @@
+
+
+Artificial Intelligence for Earth and Space Science
+===================================================
+
+.. image:: imgs/ai-earth.jpg
+  :width: 100%
+
+.. toctree::
+   :maxdepth: 3
+
+   tutorials
